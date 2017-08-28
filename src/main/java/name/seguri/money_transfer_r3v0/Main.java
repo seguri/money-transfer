@@ -1,3 +1,5 @@
+package name.seguri.money_transfer_r3v0;
+
 import static spark.Spark.*;
 
 public class Main {
