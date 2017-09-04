@@ -41,7 +41,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>name.seguri.money_transfer_r3v0.Main</mainClass>
+                            <mainClass>name.seguri.money_transfer_r3v0.v1.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
