@@ -26,6 +26,12 @@ And execute:
 
 The server is now listening at `http://localhost:4567/api/v1`.
 
+The application can be deployed on Heroku with:
+
+    mvn heroku:deploy
+
+And will be listening at `https://money-transfer-r3v0.herokuapp.com/api/v1`.
+
 You can now test the endpoints described below with:
 
     python test.py
