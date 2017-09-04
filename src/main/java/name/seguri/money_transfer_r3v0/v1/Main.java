@@ -1,4 +1,4 @@
-package name.seguri.money_transfer_r3v0;
+package name.seguri.money_transfer_r3v0.v1;
 
 import static spark.Spark.*;
 
